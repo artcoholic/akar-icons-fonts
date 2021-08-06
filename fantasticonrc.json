@@ -1,0 +1,27 @@
+{
+  "inputDir": "./src/svg",
+  "outputDir": "./src",
+  "name": "akar-icons",
+  "prefix": "ai",
+  "normalize": true,
+  "descent": 45,
+  "fontsUrl": "../fonts",
+  "fontTypes": [
+    "ttf",
+    "woff",
+    "svg"
+  ],
+  "assetTypes": [
+    "css",
+    "html"
+  ],
+  "templates": {
+    "html": "./templates/html.hbs"
+  },
+  "pathOptions": {
+    "ttf": "./src/fonts/akar-icons.ttf",
+    "woff": "./src/fonts/akar-icons.woff",
+    "svg": "./src/fonts/akar-icons.svg",
+    "css": "./src/css/akar-icons.css"
+  }
+}

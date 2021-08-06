@@ -1,0 +1,43 @@
+{
+  "name": "akar-icons-fonts",
+  "version": "1.0.0",
+  "description": "A perfectly rounded icon library made for everyone.",
+  "repository": "https://github.com/artcoholic/akar-icons-fonts.git",
+  "author": {
+    "name": "Arturo Wibawa",
+    "email": "agwibawa@gmail.com",
+    "url": "https://arturowibawa.com"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "keywords": [
+    "css",
+    "icons",
+    "svg",
+    "inline",
+    "figma",
+    "akar",
+    "design",
+    "library",
+    "icon-font"
+  ],
+  "homepage": "https://akaricons.com",
+  "scripts": {
+    "oslllo-svg-fixer": "node node_modules/oslllo-svg-fixer/src/cli.js",
+    "fetch": "node bin/fetchSVG.js && rm -rf src/svg/*",
+    "fix": "oslllo-svg-fixer -s svg -d src/svg && rm -rf svg",
+    "generate": "rm -rf src/css/* src/fonts/* src/*.html && fantasticon"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "fantasticon": "^1.2.2",
+    "figma-js": "^1.14.0",
+    "fs-extra": "^10.0.0",
+    "got": "^11.8.2",
+    "oslllo-svg-fixer": "^1.4.0",
+    "p-queue": "^7.1.0"
+  }
+}
