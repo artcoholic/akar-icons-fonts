@@ -41,7 +41,7 @@ Use the `<i/>` tag in your document `<body>` and add the appropriate class name 
 <i class="ai-heart"></i>
 ```
 
-Explore all of our icons at [akaricons.com](https://akaricons.com).
+See the complete list of all our icons at [akaricons.com](https://akaricons.com).
 
 ## Related Projects
 * [akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons as React components.
