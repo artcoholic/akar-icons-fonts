@@ -22,6 +22,7 @@
     "ttf": "./src/fonts/akar-icons.ttf",
     "woff": "./src/fonts/akar-icons.woff",
     "svg": "./src/fonts/akar-icons.svg",
-    "css": "./src/css/akar-icons.css"
+    "css": "./src/css/akar-icons.css",
+    "html": "./src/preview.html"
   }
 }
