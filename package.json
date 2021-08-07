@@ -8,8 +8,9 @@
     "email": "agwibawa@gmail.com",
     "url": "https://arturowibawa.com"
   },
+  "main": "src/index.js",
   "files": [
-    "dist"
+    "src"
   ],
   "type": "module",
   "keywords": [
