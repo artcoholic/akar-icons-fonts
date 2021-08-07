@@ -1,7 +1,11 @@
 name: Node.js Package
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+    - main
+    # file paths to consider in the event. Optional; defaults to all.
+    paths:
+      - package.json
 jobs:
   build:
     runs-on: ubuntu-latest
