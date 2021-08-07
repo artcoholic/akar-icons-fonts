@@ -1,5 +1,5 @@
 {
-  "inputDir": "./src/svg",
+  "inputDir": "./assets",
   "outputDir": "./src",
   "name": "akar-icons",
   "prefix": "ai",
