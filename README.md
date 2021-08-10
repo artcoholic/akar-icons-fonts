@@ -1,4 +1,5 @@
 ![npm](https://img.shields.io/npm/v/akar-icons-fonts?style=for-the-badge)
+![npm](https://img.shields.io/npm/dm/akar-icons-fonts?style=for-the-badge)
 
 # akar-icons-fonts
 A perfectly rounded icon library made for designers, developers, and pretty much everyone. Explore all of our icons at [akaricons.com](https://akaricons.com).
@@ -34,8 +35,10 @@ Add the script to your document `<head>` from the CDN provider:
 <script src="https://unpkg.com/akar-icons-fonts"></script>
 ```
 
+or 
+
 ### 2. Use
-Use the `<i/>` tag in your document `<body>` and add the appropriate class name with `ai-` in front of it:
+Use the `<i/>` tag in your document `<body>` and add the appropriate icon name with `ai-` prefix in front of it:
 
 ```html
 <i class="ai-heart"></i>
@@ -44,6 +47,7 @@ Use the `<i/>` tag in your document `<body>` and add the appropriate class name 
 See the complete list of all our icons at [akaricons.com](https://akaricons.com).
 
 ## Related Projects
+* [akar-icons-app](https://github.com/artcoholic/akar-icons-app) - Homepage repo of Akar icons.
 * [akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons as React components.
 * [akar-icons-svelte](https://github.com/WilliamVenner/akar-icons-svelte) - Akar icons as Svelte components.
 * [blade-akar-icons](https://github.com/codeat3/blade-akar-icons) - A package to easily make use of Akar Icons in your Laravel Blade views.
