@@ -35,8 +35,6 @@ Add the script to your document `<head>` from the CDN provider:
 <script src="https://unpkg.com/akar-icons-fonts"></script>
 ```
 
-or 
-
 ### 2. Use
 Use the `<i/>` tag in your document `<body>` and add the appropriate icon name with `ai-` prefix in front of it:
 
