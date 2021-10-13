@@ -1,8 +1,8 @@
 @font-face {
     font-family: "akar-icons";
-    src: url("../fonts/akar-icons.ttf?e6b31047019be1cf50d6b4e19b70b678") format("truetype"),
-url("../fonts/akar-icons.woff?e6b31047019be1cf50d6b4e19b70b678") format("woff"),
-url("../fonts/akar-icons.svg?e6b31047019be1cf50d6b4e19b70b678#akar-icons") format("svg");
+    src: url("../fonts/akar-icons.ttf?185689feca96f650af9093f0f1ea0103") format("truetype"),
+url("../fonts/akar-icons.woff?185689feca96f650af9093f0f1ea0103") format("woff"),
+url("../fonts/akar-icons.svg?185689feca96f650af9093f0f1ea0103#akar-icons") format("svg");
 }
 
 i[class^="ai-"]:before, i[class*=" ai-"]:before {
@@ -385,684 +385,699 @@ i[class^="ai-"]:before, i[class*=" ai-"]:before {
 .ai-css-fill:before {
     content: "\f17b";
 }
-.ai-desktop-device:before {
+.ai-cursor:before {
     content: "\f17c";
 }
-.ai-devices:before {
+.ai-desktop-device:before {
     content: "\f17d";
 }
-.ai-diamond:before {
+.ai-devices:before {
     content: "\f17e";
 }
-.ai-discord-fill:before {
+.ai-diamond:before {
     content: "\f17f";
 }
-.ai-django-fill:before {
+.ai-discord-fill:before {
     content: "\f180";
 }
-.ai-door:before {
+.ai-django-fill:before {
     content: "\f181";
 }
-.ai-dot-grid-fill:before {
+.ai-door:before {
     content: "\f182";
 }
-.ai-double-check:before {
+.ai-dot-grid-fill:before {
     content: "\f183";
 }
-.ai-download:before {
+.ai-double-check:before {
     content: "\f184";
 }
-.ai-draft:before {
+.ai-download:before {
     content: "\f185";
 }
-.ai-drag-horizontal-fill:before {
+.ai-draft:before {
     content: "\f186";
 }
-.ai-drag-vertical-fill:before {
+.ai-drag-horizontal-fill:before {
     content: "\f187";
 }
-.ai-dribbble-fill:before {
+.ai-drag-vertical-fill:before {
     content: "\f188";
 }
-.ai-dropbox-fill:before {
+.ai-dribbble-fill:before {
     content: "\f189";
 }
-.ai-edit:before {
+.ai-dropbox-fill:before {
     content: "\f18a";
 }
-.ai-enlarge:before {
+.ai-edit:before {
     content: "\f18b";
 }
-.ai-envelope:before {
+.ai-enlarge:before {
     content: "\f18c";
 }
-.ai-eye-closed:before {
+.ai-envelope:before {
     content: "\f18d";
 }
-.ai-eye-open:before {
+.ai-eye-closed:before {
     content: "\f18e";
 }
-.ai-eye-slashed:before {
+.ai-eye-open:before {
     content: "\f18f";
 }
-.ai-face-happy:before {
+.ai-eye-slashed:before {
     content: "\f190";
 }
-.ai-face-neutral:before {
+.ai-face-happy:before {
     content: "\f191";
 }
-.ai-face-sad:before {
+.ai-face-neutral:before {
     content: "\f192";
 }
-.ai-face-very-happy:before {
+.ai-face-sad:before {
     content: "\f193";
 }
-.ai-face-very-sad:before {
+.ai-face-very-happy:before {
     content: "\f194";
 }
-.ai-face-wink:before {
+.ai-face-very-sad:before {
     content: "\f195";
 }
-.ai-facebook-fill:before {
+.ai-face-wink:before {
     content: "\f196";
 }
-.ai-figma-fill:before {
+.ai-facebook-fill:before {
     content: "\f197";
 }
-.ai-file:before {
+.ai-figma-fill:before {
     content: "\f198";
 }
-.ai-fire:before {
+.ai-file:before {
     content: "\f199";
 }
-.ai-flag:before {
+.ai-fire:before {
     content: "\f19a";
 }
-.ai-flashlight:before {
+.ai-flag:before {
     content: "\f19b";
 }
-.ai-folder-add:before {
+.ai-flashlight:before {
     content: "\f19c";
 }
-.ai-folder:before {
+.ai-folder-add:before {
     content: "\f19d";
 }
-.ai-full-screen:before {
+.ai-folder:before {
     content: "\f19e";
 }
-.ai-game-controller:before {
+.ai-frame:before {
     content: "\f19f";
 }
-.ai-gatsby-fill:before {
+.ai-full-screen:before {
     content: "\f1a0";
 }
-.ai-gear:before {
+.ai-game-controller:before {
     content: "\f1a1";
 }
-.ai-gift:before {
+.ai-gatsby-fill:before {
     content: "\f1a2";
 }
-.ai-github-fill:before {
+.ai-gear:before {
     content: "\f1a3";
 }
-.ai-glasses:before {
+.ai-gift:before {
     content: "\f1a4";
 }
-.ai-globe:before {
+.ai-github-fill:before {
     content: "\f1a5";
 }
-.ai-google-contained-fill:before {
+.ai-glasses:before {
     content: "\f1a6";
 }
-.ai-google-fill:before {
+.ai-globe:before {
     content: "\f1a7";
 }
-.ai-graphql-fill:before {
+.ai-google-contained-fill:before {
     content: "\f1a8";
 }
-.ai-grid:before {
+.ai-google-fill:before {
     content: "\f1a9";
 }
-.ai-hashtag:before {
+.ai-graphql-fill:before {
     content: "\f1aa";
 }
-.ai-headphone:before {
+.ai-grid:before {
     content: "\f1ab";
 }
-.ai-health:before {
+.ai-hand:before {
     content: "\f1ac";
 }
-.ai-heart:before {
+.ai-hashtag:before {
     content: "\f1ad";
 }
-.ai-height:before {
+.ai-headphone:before {
     content: "\f1ae";
 }
-.ai-heptagon-fill:before {
+.ai-health:before {
     content: "\f1af";
 }
-.ai-heptagon:before {
+.ai-heart:before {
     content: "\f1b0";
 }
-.ai-hexagon-fill:before {
+.ai-height:before {
     content: "\f1b1";
 }
-.ai-hexagon:before {
+.ai-heptagon-fill:before {
     content: "\f1b2";
 }
-.ai-home:before {
+.ai-heptagon:before {
     content: "\f1b3";
 }
-.ai-html-fill:before {
+.ai-hexagon-fill:before {
     content: "\f1b4";
 }
-.ai-image:before {
+.ai-hexagon:before {
     content: "\f1b5";
 }
-.ai-inbox:before {
+.ai-home:before {
     content: "\f1b6";
 }
-.ai-infinite:before {
+.ai-html-fill:before {
     content: "\f1b7";
 }
-.ai-info-fill:before {
+.ai-image:before {
     content: "\f1b8";
 }
-.ai-info:before {
+.ai-inbox:before {
     content: "\f1b9";
 }
-.ai-instagram-fill:before {
+.ai-infinite:before {
     content: "\f1ba";
 }
-.ai-jar:before {
+.ai-info-fill:before {
     content: "\f1bb";
 }
-.ai-javascript-fill:before {
+.ai-info:before {
     content: "\f1bc";
 }
-.ai-jquery-fill:before {
+.ai-instagram-fill:before {
     content: "\f1bd";
 }
-.ai-key-cap:before {
+.ai-jar:before {
     content: "\f1be";
 }
-.ai-laptop-device:before {
+.ai-javascript-fill:before {
     content: "\f1bf";
 }
-.ai-leaf:before {
+.ai-jquery-fill:before {
     content: "\f1c0";
 }
-.ai-lifesaver:before {
+.ai-key-cap:before {
     content: "\f1c1";
 }
-.ai-light-bulb:before {
+.ai-laptop-device:before {
     content: "\f1c2";
 }
-.ai-link-chain:before {
+.ai-leaf:before {
     content: "\f1c3";
 }
-.ai-link-off:before {
+.ai-lifesaver:before {
     content: "\f1c4";
 }
-.ai-link-on:before {
+.ai-light-bulb:before {
     content: "\f1c5";
 }
-.ai-link-out:before {
+.ai-link-chain:before {
     content: "\f1c6";
 }
-.ai-linkedInV1-fill:before {
+.ai-link-off:before {
     content: "\f1c7";
 }
-.ai-linkedInV2-fill:before {
+.ai-link-on:before {
     content: "\f1c8";
 }
-.ai-location:before {
+.ai-link-out:before {
     content: "\f1c9";
 }
-.ai-lock-off:before {
+.ai-linkedInV1-fill:before {
     content: "\f1ca";
 }
-.ai-lock-on:before {
+.ai-linkedInV2-fill:before {
     content: "\f1cb";
 }
-.ai-map:before {
+.ai-location:before {
     content: "\f1cc";
 }
-.ai-medium-fill:before {
+.ai-lock-off:before {
     content: "\f1cd";
 }
-.ai-mention:before {
+.ai-lock-on:before {
     content: "\f1ce";
 }
-.ai-microphone:before {
+.ai-map:before {
     content: "\f1cf";
 }
-.ai-miniplayer:before {
+.ai-medium-fill:before {
     content: "\f1d0";
 }
-.ai-minus:before {
+.ai-mention:before {
     content: "\f1d1";
 }
-.ai-mobile-device:before {
+.ai-microphone:before {
     content: "\f1d2";
 }
-.ai-money:before {
+.ai-miniplayer:before {
     content: "\f1d3";
 }
-.ai-moon-fill:before {
+.ai-minus:before {
     content: "\f1d4";
 }
-.ai-moon:before {
+.ai-mobile-device:before {
     content: "\f1d5";
 }
-.ai-more-horizontal-fill:before {
+.ai-money:before {
     content: "\f1d6";
 }
-.ai-more-vertical-fill:before {
+.ai-moon-fill:before {
     content: "\f1d7";
 }
-.ai-network:before {
+.ai-moon:before {
     content: "\f1d8";
 }
-.ai-newspaper:before {
+.ai-more-horizontal-fill:before {
     content: "\f1d9";
 }
-.ai-nextjs-fill:before {
+.ai-more-vertical-fill:before {
     content: "\f1da";
 }
-.ai-node-fill:before {
+.ai-network:before {
     content: "\f1db";
 }
-.ai-normal-screen:before {
+.ai-newspaper:before {
     content: "\f1dc";
 }
-.ai-npm-fill:before {
+.ai-nextjs-fill:before {
     content: "\f1dd";
 }
-.ai-octagon-fill:before {
+.ai-node-fill:before {
     content: "\f1de";
 }
-.ai-octagon:before {
+.ai-normal-screen:before {
     content: "\f1df";
 }
-.ai-octocat-fill:before {
+.ai-npm-fill:before {
     content: "\f1e0";
 }
-.ai-open-envelope:before {
+.ai-octagon-fill:before {
     content: "\f1e1";
 }
-.ai-oval:before {
+.ai-octagon:before {
     content: "\f1e2";
 }
-.ai-paper:before {
+.ai-octocat-fill:before {
     content: "\f1e3";
 }
-.ai-parallelogram:before {
+.ai-open-envelope:before {
     content: "\f1e4";
 }
-.ai-pause:before {
+.ai-oval:before {
     content: "\f1e5";
 }
-.ai-pencil:before {
+.ai-paper:before {
     content: "\f1e6";
 }
-.ai-pentagon-fill:before {
+.ai-parallelogram:before {
     content: "\f1e7";
 }
-.ai-pentagon:before {
+.ai-pause:before {
     content: "\f1e8";
 }
-.ai-people-group:before {
+.ai-pencil:before {
     content: "\f1e9";
 }
-.ai-people-multiple:before {
+.ai-pentagon-fill:before {
     content: "\f1ea";
 }
-.ai-person-add:before {
+.ai-pentagon:before {
     content: "\f1eb";
 }
-.ai-person-check:before {
+.ai-people-group:before {
     content: "\f1ec";
 }
-.ai-person-cross:before {
+.ai-people-multiple:before {
     content: "\f1ed";
 }
-.ai-person:before {
+.ai-person-add:before {
     content: "\f1ee";
 }
-.ai-phone:before {
+.ai-person-check:before {
     content: "\f1ef";
 }
-.ai-php-fill:before {
+.ai-person-cross:before {
     content: "\f1f0";
 }
-.ai-pin:before {
+.ai-person:before {
     content: "\f1f1";
 }
-.ai-pinterest-fill:before {
+.ai-phone:before {
     content: "\f1f2";
 }
-.ai-plane-fill:before {
+.ai-php-fill:before {
     content: "\f1f3";
 }
-.ai-plane:before {
+.ai-pin:before {
     content: "\f1f4";
 }
-.ai-planet:before {
+.ai-pinterest-fill:before {
     content: "\f1f5";
 }
-.ai-plant:before {
+.ai-plane-fill:before {
     content: "\f1f6";
 }
-.ai-play:before {
+.ai-plane:before {
     content: "\f1f7";
 }
-.ai-plus:before {
+.ai-planet:before {
     content: "\f1f8";
 }
-.ai-pointer-down-fill:before {
+.ai-plant:before {
     content: "\f1f9";
 }
-.ai-pointer-left-fill:before {
+.ai-play:before {
     content: "\f1fa";
 }
-.ai-pointer-right-fill:before {
+.ai-plus:before {
     content: "\f1fb";
 }
-.ai-pointer-up-fill:before {
+.ai-pointer-down-fill:before {
     content: "\f1fc";
 }
-.ai-pointing-up:before {
+.ai-pointer-left-fill:before {
     content: "\f1fd";
 }
-.ai-python-fill:before {
+.ai-pointer-right-fill:before {
     content: "\f1fe";
 }
-.ai-question-fill:before {
+.ai-pointer-up-fill:before {
     content: "\f1ff";
 }
-.ai-question:before {
+.ai-pointing-up:before {
     content: "\f200";
 }
-.ai-radish:before {
+.ai-python-fill:before {
     content: "\f201";
 }
-.ai-react-fill:before {
+.ai-question-fill:before {
     content: "\f202";
 }
-.ai-reddit-fill:before {
+.ai-question:before {
     content: "\f203";
 }
-.ai-reduce:before {
+.ai-radish:before {
     content: "\f204";
 }
-.ai-redux-fill:before {
+.ai-react-fill:before {
     content: "\f205";
 }
-.ai-ribbon:before {
+.ai-reddit-fill:before {
     content: "\f206";
 }
-.ai-rock-on:before {
+.ai-reduce:before {
     content: "\f207";
 }
-.ai-rss:before {
+.ai-redux-fill:before {
     content: "\f208";
 }
-.ai-sass-fill:before {
+.ai-ribbon:before {
     content: "\f209";
 }
-.ai-schedule:before {
+.ai-rock-on:before {
     content: "\f20a";
 }
-.ai-scissor:before {
+.ai-rss:before {
     content: "\f20b";
 }
-.ai-search:before {
+.ai-sass-fill:before {
     content: "\f20c";
 }
-.ai-send:before {
+.ai-schedule:before {
     content: "\f20d";
 }
-.ai-share-box:before {
+.ai-scissor:before {
     content: "\f20e";
 }
-.ai-shield:before {
+.ai-search:before {
     content: "\f20f";
 }
-.ai-shipping-box-v1:before {
+.ai-send:before {
     content: "\f210";
 }
-.ai-shipping-box-v2:before {
+.ai-share-box:before {
     content: "\f211";
 }
-.ai-shopping-bag:before {
+.ai-shield:before {
     content: "\f212";
 }
-.ai-sign-out:before {
+.ai-shipping-box-v1:before {
     content: "\f213";
 }
-.ai-slack-fill:before {
+.ai-shipping-box-v2:before {
     content: "\f214";
 }
-.ai-snapchat-fill:before {
+.ai-shopping-bag:before {
     content: "\f215";
 }
-.ai-sound-down:before {
+.ai-sign-out:before {
     content: "\f216";
 }
-.ai-sound-off:before {
+.ai-slack-fill:before {
     content: "\f217";
 }
-.ai-sound-on:before {
+.ai-slice:before {
     content: "\f218";
 }
-.ai-sound-up:before {
+.ai-snapchat-fill:before {
     content: "\f219";
 }
-.ai-soundcloud-fill:before {
+.ai-sound-down:before {
     content: "\f21a";
 }
-.ai-spotify-fill:before {
+.ai-sound-off:before {
     content: "\f21b";
 }
-.ai-square-fill:before {
+.ai-sound-on:before {
     content: "\f21c";
 }
-.ai-square:before {
+.ai-sound-up:before {
     content: "\f21d";
 }
-.ai-stack-overflow-fill:before {
+.ai-soundcloud-fill:before {
     content: "\f21e";
 }
-.ai-star:before {
+.ai-spotify-fill:before {
     content: "\f21f";
 }
-.ai-stop-fill:before {
+.ai-square-fill:before {
     content: "\f220";
 }
-.ai-stop:before {
+.ai-square:before {
     content: "\f221";
 }
-.ai-sun-fill:before {
+.ai-stack-overflow-fill:before {
     content: "\f222";
 }
-.ai-sun:before {
+.ai-star:before {
     content: "\f223";
 }
-.ai-tablet-device:before {
+.ai-stop-fill:before {
     content: "\f224";
 }
-.ai-tag:before {
+.ai-stop:before {
     content: "\f225";
 }
-.ai-telegram-fill:before {
+.ai-sun-fill:before {
     content: "\f226";
 }
-.ai-telescope:before {
+.ai-sun:before {
     content: "\f227";
 }
-.ai-tetragon-fill:before {
+.ai-tablet-device:before {
     content: "\f228";
 }
-.ai-tetragon:before {
+.ai-tag:before {
     content: "\f229";
 }
-.ai-text-align-center:before {
+.ai-telegram-fill:before {
     content: "\f22a";
 }
-.ai-text-align-justified:before {
+.ai-telescope:before {
     content: "\f22b";
 }
-.ai-text-align-left:before {
+.ai-tetragon-fill:before {
     content: "\f22c";
 }
-.ai-text-align-right:before {
+.ai-tetragon:before {
     content: "\f22d";
 }
-.ai-three-line-horizontal:before {
+.ai-text-align-center:before {
     content: "\f22e";
 }
-.ai-three-line-vertical:before {
+.ai-text-align-justified:before {
     content: "\f22f";
 }
-.ai-thumbs-down:before {
+.ai-text-align-left:before {
     content: "\f230";
 }
-.ai-thumbs-up:before {
+.ai-text-align-right:before {
     content: "\f231";
 }
-.ai-thunder:before {
+.ai-three-line-horizontal:before {
     content: "\f232";
 }
-.ai-ticket:before {
+.ai-three-line-vertical:before {
     content: "\f233";
 }
-.ai-toggle-off-fill:before {
+.ai-thumbs-down:before {
     content: "\f234";
 }
-.ai-toggle-off:before {
+.ai-thumbs-up:before {
     content: "\f235";
 }
-.ai-toggle-on-fill:before {
+.ai-thunder:before {
     content: "\f236";
 }
-.ai-toggle-on:before {
+.ai-ticket:before {
     content: "\f237";
 }
-.ai-togo-cup:before {
+.ai-toggle-off-fill:before {
     content: "\f238";
 }
-.ai-trash-bin:before {
+.ai-toggle-off:before {
     content: "\f239";
 }
-.ai-trash-can:before {
+.ai-toggle-on-fill:before {
     content: "\f23a";
 }
-.ai-triangle-alert-fill:before {
+.ai-toggle-on:before {
     content: "\f23b";
 }
-.ai-triangle-alert:before {
+.ai-togo-cup:before {
     content: "\f23c";
 }
-.ai-triangle-down:before {
+.ai-trash-bin:before {
     content: "\f23d";
 }
-.ai-triangle-fill:before {
+.ai-trash-can:before {
     content: "\f23e";
 }
-.ai-triangle-left:before {
+.ai-triangle-alert-fill:before {
     content: "\f23f";
 }
-.ai-triangle-right:before {
+.ai-triangle-alert:before {
     content: "\f240";
 }
-.ai-triangle-up:before {
+.ai-triangle-down:before {
     content: "\f241";
 }
-.ai-triangle:before {
+.ai-triangle-fill:before {
     content: "\f242";
 }
-.ai-trophy:before {
+.ai-triangle-left:before {
     content: "\f243";
 }
-.ai-truck:before {
+.ai-triangle-right:before {
     content: "\f244";
 }
-.ai-tumblr-fill:before {
+.ai-triangle-up:before {
     content: "\f245";
 }
-.ai-twitch-fill:before {
+.ai-triangle:before {
     content: "\f246";
 }
-.ai-twitter-fill:before {
+.ai-trophy:before {
     content: "\f247";
 }
-.ai-two-line-horizontal:before {
+.ai-truck:before {
     content: "\f248";
 }
-.ai-two-line-vertical:before {
+.ai-tumblr-fill:before {
     content: "\f249";
 }
-.ai-umbrella:before {
+.ai-twitch-fill:before {
     content: "\f24a";
 }
-.ai-utensils:before {
+.ai-twitter-fill:before {
     content: "\f24b";
 }
-.ai-vercel-fill:before {
+.ai-two-line-horizontal:before {
     content: "\f24c";
 }
-.ai-victory-hand:before {
+.ai-two-line-vertical:before {
     content: "\f24d";
 }
-.ai-vimeo-fill:before {
+.ai-umbrella:before {
     content: "\f24e";
 }
-.ai-vk-fill:before {
+.ai-utensils:before {
     content: "\f24f";
 }
-.ai-vr-ar:before {
+.ai-vape-kit:before {
     content: "\f250";
 }
-.ai-vscode-fill:before {
+.ai-vercel-fill:before {
     content: "\f251";
 }
-.ai-vue-fill:before {
+.ai-victory-hand:before {
     content: "\f252";
 }
-.ai-wallet:before {
+.ai-vimeo-fill:before {
     content: "\f253";
 }
-.ai-watch-device:before {
+.ai-vk-fill:before {
     content: "\f254";
 }
-.ai-water:before {
+.ai-vr-ar:before {
     content: "\f255";
 }
-.ai-whatsapp-fill:before {
+.ai-vscode-fill:before {
     content: "\f256";
 }
-.ai-width:before {
+.ai-vue-fill:before {
     content: "\f257";
 }
-.ai-wifi:before {
+.ai-wallet:before {
     content: "\f258";
 }
-.ai-wine-glass:before {
+.ai-watch-device:before {
     content: "\f259";
 }
-.ai-yarn-fill:before {
+.ai-water:before {
     content: "\f25a";
 }
-.ai-youtube-fill:before {
+.ai-whatsapp-fill:before {
     content: "\f25b";
 }
-.ai-zoom-fill:before {
+.ai-width:before {
     content: "\f25c";
 }
-.ai-zoom-in:before {
+.ai-wifi:before {
     content: "\f25d";
 }
-.ai-zoom-out:before {
+.ai-wine-glass:before {
     content: "\f25e";
+}
+.ai-yarn-fill:before {
+    content: "\f25f";
+}
+.ai-youtube-fill:before {
+    content: "\f260";
+}
+.ai-zoom-fill:before {
+    content: "\f261";
+}
+.ai-zoom-in:before {
+    content: "\f262";
+}
+.ai-zoom-out:before {
+    content: "\f263";
 }
