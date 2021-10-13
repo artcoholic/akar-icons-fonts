@@ -47,6 +47,7 @@ See the complete list of all our icons at [akaricons.com](https://akaricons.com)
 ## Related Projects
 * [akar-icons-app](https://github.com/artcoholic/akar-icons-app) - Homepage repo of Akar icons.
 * [akar-icons](https://github.com/artcoholic/akar-icons) - Akar icons as React components.
+* [akar-icons-web-components](https://github.com/awmleer/akar-icons-web-components) - Akar icons as web components, fully customizable and use anywhere.
 * [akar-icons-svelte](https://github.com/WilliamVenner/akar-icons-svelte) - Akar icons as Svelte components.
 * [blade-akar-icons](https://github.com/codeat3/blade-akar-icons) - A package to easily make use of Akar Icons in your Laravel Blade views.
 
