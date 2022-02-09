@@ -1,8 +1,8 @@
 @font-face {
     font-family: "akar-icons";
-    src: url("../fonts/akar-icons.ttf?6a1e25b738fb6e198a09193e4522e205") format("truetype"),
-url("../fonts/akar-icons.woff?6a1e25b738fb6e198a09193e4522e205") format("woff"),
-url("../fonts/akar-icons.svg?6a1e25b738fb6e198a09193e4522e205#akar-icons") format("svg");
+    src: url("../fonts/akar-icons.ttf?5c722c5b30d5508c76cf8ba24ad7bcd2") format("truetype"),
+url("../fonts/akar-icons.woff?5c722c5b30d5508c76cf8ba24ad7bcd2") format("woff"),
+url("../fonts/akar-icons.svg?5c722c5b30d5508c76cf8ba24ad7bcd2#akar-icons") format("svg");
 }
 
 i[class^="ai-"]:before, i[class*=" ai-"]:before {
@@ -655,10 +655,10 @@ i[class^="ai-"]:before, i[class*=" ai-"]:before {
 .ai-link-out:before {
     content: "\f1d5";
 }
-.ai-linkedin-V1-fill:before {
+.ai-linkedin-box-fill:before {
     content: "\f1d6";
 }
-.ai-linkedin-V2-fill:before {
+.ai-linkedin-fill:before {
     content: "\f1d7";
 }
 .ai-location:before {
