@@ -1,8 +1,8 @@
 @font-face {
     font-family: "akar-icons";
-    src: url("../fonts/akar-icons.ttf?2ffcb142e7b8ef32b45ab62304d73a5a") format("truetype"),
-url("../fonts/akar-icons.woff?2ffcb142e7b8ef32b45ab62304d73a5a") format("woff"),
-url("../fonts/akar-icons.svg?2ffcb142e7b8ef32b45ab62304d73a5a#akar-icons") format("svg");
+    src: url("../fonts/akar-icons.ttf?f756d65196225896b3a6b1acfd6d72e2") format("truetype"),
+url("../fonts/akar-icons.woff?f756d65196225896b3a6b1acfd6d72e2") format("woff"),
+url("../fonts/akar-icons.svg?f756d65196225896b3a6b1acfd6d72e2#akar-icons") format("svg");
 }
 
 i[class^="ai-"]:before, i[class*=" ai-"]:before {
